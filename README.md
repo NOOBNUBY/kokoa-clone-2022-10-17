@@ -1,3 +1,3 @@
-# Kokoa Clone 2022
+# Kokoa Clone 2020 Update
 
-Css 너무 어려워요 ㅠㅠ
+HTML & CSS are so much fun!
